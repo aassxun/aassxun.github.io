@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<head> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
-</head> 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
-
 
 * [Equiangular Basis Vectors](https://arxiv.org/abs/2303.11637). <br>
   (This work was the winner solution of the 2022 DIGIX global AI challenge.) <br>
@@ -22,3 +16,8 @@ author_profile: true
  Neural Information Processing Systems (NeurIPS’21), Virtual, 2021, pp. 5720-5730. (Spotlight Presentation Acceptance Rates: 282/2334=10%)
  
  
+<head> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
