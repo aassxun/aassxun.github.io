@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+* [Equiangular Basis Vectors](https://arxiv.org/abs/2303.11637).
+  (This work was the winner solution of the 2022 DIGIX global AI challenge.)
+  **Y. Shen**, X. Sun, and X.-S. Wei*.
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR’23), Vancouver, Canada, 2023, pp. xx-xx. (Acceptance Rates: 2360/9155=25.8%)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* [A$^2$-Net: Learning Attribute-Aware Hash Codes for Large-Scale Fine-Grained Image Retrieval](https://proceedings.neurips.cc/paper/2021/file/2d3acd3e240c61820625fff66a19938f-Paper.pdf).
+ X.-S. Wei, **Y. Shen$^*$**, X. Sun, H.-J. Ye, and J. Yang.
+ Neural Information Processing Systems (NeurIPS’21), Virtual, 2021, pp. 5720-5730. (Spotlight Presentation Acceptance Rates: 282/2334=10%)
