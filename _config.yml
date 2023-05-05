@@ -82,8 +82,10 @@ analytics:
 author:
   name             : "Yang Shen"
   avatar           : "myimg.png"
-  bio              :  # "Your biography for the left-hand sidebar"
+  bio              : # "Your biography for the left-hand sidebar"
   location         : "Nan Jing"
+  employer         :
+  pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=Kz1lGgoAAAAJ&hl=zh-CN"
   email            : "shenyang_98@njust.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
