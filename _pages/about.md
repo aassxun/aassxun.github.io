@@ -12,4 +12,4 @@ I'm a Ph.D Candidate under the supervision of [Prof. Xiu-Shen Wei](http://www.we
 
 Email: shenyang_98@njust.edu.cn
 
-GIthub: https://github.com/aassxun/
+Github: https://github.com/aassxun/
