@@ -17,7 +17,7 @@ author_profile: true
   European Conference on Computer Vision (ECCV’22), Tel Aviv, Israel, 2022, pp. 531-548. (Acceptance Rates: 1650/5803=28%)
   
 * [Delving Deep into Simplicity Bias for Long-Tailed Image Recognition](https://arxiv.org/abs/2302.03264). <br>
-  X.-S. Wei†*, X. Sun*, **Y. Shen**, A. Xu, P. Wang, F. Zhang. <br>
+  X.-S. Wei†\*, X. Sun, **Y. Shen**, A. Xu, P. Wang, F. Zhang. <br>
   arXiv preprint arXiv:2302.03264
   
 * [Open-Set Object Detection Based on Annular Prototype Space Optimization](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?edit_id=20230227161026001&file_no=202209260000004), in Chinese. <br>
@@ -33,7 +33,7 @@ author_profile: true
   IEEE Conference on on Multimedia and Expo (ICME’22), Taipei, Taiwan, 2022, DOI: 10.1109/ICME52920.2022.9859609.
   
 * [Webly-Supervised Fine-Grained Recognition with Partial Label Learning](https://www.ijcai.org/proceedings/2022/0209.pdf). <br>
-  Y.-Y. Xu*, **Y. Shen***, X.-S. Wei†, and J. Yang. <br>
+  Y.-Y. Xu\*, **Y. Shen\***, X.-S. Wei†, and J. Yang. <br>
   International Joint Conference on Artificial Intelligence (IJCAI’22), Vienna, Australia, 2022, pp. 1502-1508. (Acceptance Rates: 681/4535=15.02%)
   
 * [Automatic Check-Out via Prototype-Based Classifier Learning from Single-Product Exemplars](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_16). <br>
@@ -41,7 +41,7 @@ author_profile: true
   European Conference on Computer Vision (ECCV’22), Tel Aviv, Israel, 2022, pp. 277-293. (Acceptance Rates: 1650/5803=28%)
 
 * [A^2-Net: Learning Attribute-Aware Hash Codes for Large-Scale Fine-Grained Image Retrieval](https://proceedings.neurips.cc/paper/2021/file/2d3acd3e240c61820625fff66a19938f-Paper.pdf). <br>
-  X.-S. Wei*†, **Y. Shen***, X. Sun, H.-J. Ye, and J. Yang. <br>
+  X.-S. Wei†\*, **Y. Shen\***, X. Sun, H.-J. Ye, and J. Yang. <br>
   Neural Information Processing Systems (NeurIPS’21), Virtual, 2021, pp. 5720-5730. (Spotlight Presentation Acceptance Rates: 282/2334=10%)
  
 
