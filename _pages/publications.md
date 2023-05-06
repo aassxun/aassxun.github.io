@@ -17,7 +17,7 @@ author_profile: true
   European Conference on Computer Vision (ECCV’22), Tel Aviv, Israel, 2022, pp. 531-548. (Acceptance Rates: 1650/5803=28%)
   
 * [Delving Deep into Simplicity Bias for Long-Tailed Image Recognition](https://arxiv.org/abs/2302.03264). <br>
-  X.-S. Wei†\*, X. Sun, **Y. Shen**, A. Xu, P. Wang, F. Zhang. <br>
+  X.-S. Wei†\*, X. Sun*, **Y. Shen**, A. Xu, P. Wang, F. Zhang. <br>
   arXiv preprint arXiv:2302.03264
   
 * [Open-Set Object Detection Based on Annular Prototype Space Optimization](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?edit_id=20230227161026001&file_no=202209260000004), in Chinese. <br>
