@@ -12,6 +12,14 @@ author_profile: true
   **Y. Shen**, X. Sun, and X.-S. Wei†. <br>
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR’23), Vancouver, Canada, 2023, pp. xx-xx. (Acceptance Rates: 2360/9155=25.8%)
 
+* [Attribute-Aware Deep Hashing with Self-Consistency for Large-Scale Fine-Grained Image Retrieval](https://pubmed.ncbi.nlm.nih.gov/37505998/). <br>
+  X.-S. Wei, **Y. Shen**, X. Sun, P. Wang, Y. Peng†. <br>
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. DOI: 10.1109/TPAMI.2023.3299563.
+
+* [Hawkeye: A PyTorch-based Library for Fine-Grained Image Recognition with Deep Learning](https://openreview.net/forum?id=vmFOhOS0Hu). <br>
+  J. He, **Y. Shen**, X.-S. Wei†, Y. Wu. <br>
+  ACM MM 2023 Open Source Competition.
+
 * [SEMICON: A Learning-to-Hash Solution for Large-Scale Fine-Grained Image Retrieval](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_31). <br>
   **Y. Shen**, X. Sun, X.-S. Wei†, Q.-Y. Jiang, and J. Yang. <br>
   European Conference on Computer Vision (ECCV’22), Tel Aviv, Israel, 2022, pp. 531-548. (Acceptance Rates: 1650/5803=28%)
