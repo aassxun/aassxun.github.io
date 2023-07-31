@@ -18,7 +18,7 @@ author_profile: true
 
 * [Hawkeye: A PyTorch-based Library for Fine-Grained Image Recognition with Deep Learning](https://openreview.net/forum?id=vmFOhOS0Hu). <br>
   J. He, **Y. Shen**, X.-S. Wei†, Y. Wu. <br>
-  ACM MM 2023 Open Source Competition.
+  ACM MM 2023 Open Source Competition. 2023.
 
 * [SEMICON: A Learning-to-Hash Solution for Large-Scale Fine-Grained Image Retrieval](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_31). <br>
   **Y. Shen**, X. Sun, X.-S. Wei†, Q.-Y. Jiang, and J. Yang. <br>
