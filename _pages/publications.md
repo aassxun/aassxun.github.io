@@ -49,7 +49,7 @@ author_profile: true
   European Conference on Computer Vision (ECCV’22), Tel Aviv, Israel, 2022, pp. 277-293. (Acceptance Rates: 1650/5803=28%)
 
 * [A^2-Net: Learning Attribute-Aware Hash Codes for Large-Scale Fine-Grained Image Retrieval](https://proceedings.neurips.cc/paper/2021/file/2d3acd3e240c61820625fff66a19938f-Paper.pdf). <br>
-  X.-S. Wei†\*, **Y. Shen\***, X. Sun, H.-J. Ye, and J. Yang. <br>
+  X.-S. Wei\*, **Y. Shen\***, X. Sun, H.-J. Ye, and J. Yang†. <br>
   Neural Information Processing Systems (NeurIPS’21), Virtual, 2021, pp. 5720-5730. (Spotlight Presentation Acceptance Rates: 282/2334=10%)
  
 
