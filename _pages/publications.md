@@ -16,9 +16,13 @@ author_profile: true
   X.-S. Wei, **Y. Shen**, X. Sun, P. Wang, Y. Peng†. <br>
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. DOI: 10.1109/TPAMI.2023.3299563.
 
-* [Hawkeye: A PyTorch-based Library for Fine-Grained Image Recognition with Deep Learning](https://openreview.net/forum?id=vmFOhOS0Hu). <br>
+* [Attribute-aware knowledge based self-abductive for semi-supervised representation learning](http://engine.scichina.com/doi/10.1360/SSI-2023-0252), in Chinese. <br>
+  **Y. Shen**, X. Sun, H. Yang, X.-S. Wei†. <br>
+  Science China Information Sciences （中国科学：信息科学）, 2023. DOI: 10.1360/SSI-2023-0252.
+
+* [Hawkeye: A PyTorch-based Library for Fine-Grained Image Recognition with Deep Learning](https://dl.acm.org/doi/abs/10.1145/3581783.3613461). <br>
   J. He, **Y. Shen**, X.-S. Wei†, Y. Wu. <br>
-  ACM MM 2023 Open Source Competition. 2023.
+  ACM MM 2023 (Open Source Competition). 2023, pp. 9656–9659.
 
 * [SEMICON: A Learning-to-Hash Solution for Large-Scale Fine-Grained Image Retrieval](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_31). <br>
   **Y. Shen**, X. Sun, X.-S. Wei†, Q.-Y. Jiang, and J. Yang. <br>
