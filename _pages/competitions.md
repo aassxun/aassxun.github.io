@@ -16,6 +16,7 @@ author_profile: true
 * The first runner-up (2/116) of [Fine-Grained Food Recognition](https://www.kaggle.com/c/largefinefoodai-iccv-recognition) in [LargeFineFoodAI](https://platform.sankuai.com/foodai2021.html#index) (in association with ICCV 2021), 2021.
 
 ## Host
+* 2024 Competitions of [Large-Scale Natural Biology Hashing (iBioHash)](https://www.kaggle.com/competitions/ibiohash-2024-fgvc11) at [CVPR24-FGVC11](https://sites.google.com/view/fgvc11/home).
 
 * 2023 Competitions of [Large-Scale Natural Biology Hashing (iBioHash)](https://www.kaggle.com/competitions/ibiohash-2023-fgvc10/overview) at [CVPR23-FGVC10](https://sites.google.com/view/fgvc10/home).
 
