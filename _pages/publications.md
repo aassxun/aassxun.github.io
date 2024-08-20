@@ -6,6 +6,21 @@ author_profile: true
 ---
 
 ## Conference & Journal Papers
+**2024** <br>
+
+* [Equiangular Basis Vectors: A Novel Paradigm for Classification Tasks](https://link.springer.com/article/10.1007/s11263-024-02189-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240730&utm_content=10.1007/s11263-024-02189-2). <br>
+  **Y. Shen**, X. Sun, X.-S. Wei†, A. Xu, and L. Gao. <br>
+  International Journal of Computer Vision (IJCV), in press
+
+* Customized Generation Reimagined: Fidelity and Editability Harmonized <br>
+  J. Jin, **Y. Shen**, Z. Fu†, and J. Yang†. <br>
+  European Conference on Computer Vision (ECCV’24), in press <br>
+
+* [Few-shot open-set recognition via pairwise discriminant aggregation](https://www.sciencedirect.com/science/article/abs/pii/S0925231224009858) <br>
+  J. Jin, **Y. Shen**, Z. Fu†, and J. Yang†. <br>
+  Neurocomputing, 128214 <br>
+
+**2023** <br>
 
 * [Equiangular Basis Vectors](https://arxiv.org/abs/2303.11637). <br>
   (This work was the winner solution of the 2022 DIGIX global AI challenge.) <br>
@@ -23,6 +38,8 @@ author_profile: true
 * [Hawkeye: A PyTorch-based Library for Fine-Grained Image Recognition with Deep Learning](https://dl.acm.org/doi/abs/10.1145/3581783.3613461). <br>
   J. He, **Y. Shen**, X.-S. Wei†, Y. Wu. <br>
   ACM MM 2023 (Open Source Competition). 2023, pp. 9656–9659.
+
+**2022** <br>
 
 * [SEMICON: A Learning-to-Hash Solution for Large-Scale Fine-Grained Image Retrieval](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_31). <br>
   **Y. Shen**, X. Sun, X.-S. Wei†, Q.-Y. Jiang, and J. Yang. <br>
@@ -51,6 +68,8 @@ author_profile: true
 * [Automatic Check-Out via Prototype-Based Classifier Learning from Single-Product Exemplars](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_16). <br>
   H. Chen, X.-S. Wei†, F. Zhang, **Y. Shen**, H. Xu, and L. Xiao. <br>
   European Conference on Computer Vision (ECCV’22), Tel Aviv, Israel, 2022, pp. 277-293. (Acceptance Rates: 1650/5803=28%)
+
+**2021** <br>
 
 * [A^2-Net: Learning Attribute-Aware Hash Codes for Large-Scale Fine-Grained Image Retrieval](https://proceedings.neurips.cc/paper/2021/file/2d3acd3e240c61820625fff66a19938f-Paper.pdf). <br>
   X.-S. Wei\*, **Y. Shen\***, X. Sun, H.-J. Ye, and J. Yang†. <br>
