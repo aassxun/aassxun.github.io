@@ -7,14 +7,29 @@ author_profile: true
 
 ## Conference & Journal Papers
 **2024** <br>
+* [Explanatory Instructions: Towards Unified Vision Tasks Understanding and Zero-shot Generalization](https://arxiv.org/pdf/2412.18525). <br>
+  **Y. Shen**, X.-S. Wei†, Yifan Sun†, Yuxin Song, Tao Yuan, Jian Jin, Heyang Xu, Yazhou Yao, Errui Ding <br>
+  arXiv preprint arXiv:2412.18525 <br>
+
+* UniCanvas: Unified Real Image Editing via Customized Text-to-image Generation. <br>
+  J. Jin, **Y. Shen**, X. Zhao, Z. Fu†, and J. Yang†. <br>
+  International Journal of Computer Vision (IJCV), in press <br>
+
+* [Delving Deep into Simplicity Bias for Long-Tailed Image Recognition](https://arxiv.org/abs/2302.03264). <br>
+  X.-S. Wei†\*, X. Sun*, **Y. Shen**, A. Xu, P. Wang, F. Zhang. <br>
+  International Journal of Computer Vision (IJCV), in press <br>
+
+* Prune and Merge: Efficient Token Compression for Vision Transformer with Spacial Information Preserved. <br>
+  J. Mao, **Y. Shen**, J. Guo, Y. Yao†, X. Hua, and H. Shen <br>
+  IEEE Transactions on Multimedia, 2024, in press <br>
 
 * [Equiangular Basis Vectors: A Novel Paradigm for Classification Tasks](https://link.springer.com/article/10.1007/s11263-024-02189-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240730&utm_content=10.1007/s11263-024-02189-2). <br>
   **Y. Shen**, X. Sun, X.-S. Wei†, A. Xu, and L. Gao. <br>
-  International Journal of Computer Vision (IJCV), in press
+  International Journal of Computer Vision (IJCV), 2024, Vol. 133, pp. 372–397 <br>
 
-* Customized Generation Reimagined: Fidelity and Editability Harmonized <br>
+* [Customized Generation Reimagined: Fidelity and Editability Harmonized](https://arxiv.org/pdf/2412.04831) <br>
   J. Jin, **Y. Shen**, Z. Fu†, and J. Yang†. <br>
-  European Conference on Computer Vision (ECCV’24), in press <br>
+  European Conference on Computer Vision (ECCV’24), pp. 410-426 <br>
 
 * [Few-shot open-set recognition via pairwise discriminant aggregation](https://www.sciencedirect.com/science/article/abs/pii/S0925231224009858) <br>
   J. Jin, **Y. Shen**, Z. Fu†, and J. Yang†. <br>
@@ -44,10 +59,6 @@ author_profile: true
 * [SEMICON: A Learning-to-Hash Solution for Large-Scale Fine-Grained Image Retrieval](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_31). <br>
   **Y. Shen**, X. Sun, X.-S. Wei†, Q.-Y. Jiang, and J. Yang. <br>
   European Conference on Computer Vision (ECCV’22), Tel Aviv, Israel, 2022, pp. 531-548. (Acceptance Rates: 1650/5803=28%)
-  
-* [Delving Deep into Simplicity Bias for Long-Tailed Image Recognition](https://arxiv.org/abs/2302.03264). <br>
-  X.-S. Wei†\*, X. Sun*, **Y. Shen**, A. Xu, P. Wang, F. Zhang. <br>
-  arXiv preprint arXiv:2302.03264
   
 * [Open-Set Object Detection Based on Annular Prototype Space Optimization](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?edit_id=20230227161026001&file_no=202209260000004), in Chinese. <br>
   X. Sun, **Y. Shen**, X.-S. Wei†, P. An. <br>
